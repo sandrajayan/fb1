@@ -1,0 +1,30 @@
+{
+  "name": "rservices",
+  "version": "1.0.0",
+  "description": "sample bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warlock7/fb1.git"
+  },
+  "author": "George",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warlock7/fb1/issues"
+  },
+  "homepage": "https://github.com/warlock7/fb1#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "config": "^1.25.1",
+    "crypto": "0.0.3",
+    "express": "^4.14.1",
+    "fbgraph": "^1.4.1",
+    "pug": "^2.0.0-beta11",
+    "request": "^2.79.0",
+    "socket.io": "^1.7.2"
+  }
+}
